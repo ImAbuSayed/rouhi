@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في صمت الليل أناديك
+> نور عينيك نجم يهديني إليك
+> طيفك يسكن في أعماق قلبي
+> أنا هنا أنتظر شوقا لعينيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
