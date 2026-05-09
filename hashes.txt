@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rouhi
+
+This log tracks the cryptographic history and versioning for the song **Rouhi** (rouhi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:30:55.511361 | `v1` | `9f31cc49bc160053425231a6ad7f50246ea5f9e712b75c98dee275a40604b26f` | `39f0c8590aa463ec53c07dc03ec5097094d6caab9a95b610be87924cd89c4bbb` | `2026-05-09_rouhi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
